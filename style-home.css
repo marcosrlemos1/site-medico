@@ -1,0 +1,88 @@
+
+.cabecalho{
+    background: aquamarine;
+}
+
+.cabecalho div{
+    position: relative;
+    width: 1200px;
+    height: 120px;
+    margin: 0 auto;
+}
+
+.cabecalho nav{
+    position: absolute;
+    top: 50px;
+    left: 700px;
+}
+
+.cabecalho h1{
+    position: absolute;
+    top: 50px;
+}
+
+.cabecalho a{
+    text-transform: uppercase;
+    text-decoration: none;
+    color: black;
+    font-size: 15px;
+}
+
+.cabecalho li{
+    display: inline;
+    margin: 0 0 0 18px;
+}
+
+.principal div{
+    width: 940px;
+    height: 800px;
+    margin: 0 auto;
+}
+
+.titulo-secundario{
+    position: relative;
+    text-align: center;
+    top: 200px;
+    font-size: 150px;
+}
+
+.principal p{
+    position: relative;
+    font-size: 100px;
+    top: 200px;
+    text-align: center;
+}
+
+.rodape{
+    background: aquamarine;
+}
+
+.rodape div{
+    position: relative;
+    width: 1200px;
+    height: 120px;
+    margin: 0 auto;
+}
+
+.rodape nav{
+    position: absolute;
+    top: 50px;
+    left: 850px;
+}
+
+.rodape a{
+    text-transform: uppercase;
+    text-decoration: none;
+    color: black;
+    font-size: 15px;
+}
+
+.rodape li{
+    display: inline;
+    margin: 0 0 0 18px;
+}
+
+.rodape p{
+    position: absolute;
+    top: 50px
+}
