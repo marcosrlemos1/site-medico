@@ -39,17 +39,58 @@
     margin: 0 auto;
 }
 
-.titulo-secundario{
-    position: relative;
-    text-align: center;
-    top: 200px;
-    font-size: 150px;
+.titulo-dois{
+    font-size: 20px;
 }
 
-.principal p{
+.titulo-tres{
     position: relative;
-    font-size: 100px;
-    top: 200px;
+    text-align:center;
+    top: -170px;
+    font-size: 30px;
+}
+
+.titulo-quatro{
+    position: relative;
+    text-align: center;
+    top: 0px;
+    font-size: 30px;
+}
+
+.titulo-cinco{
+    font-size: 20px;
+}
+
+.Referencias{
+    position: relative;
+    text-align: center;
+    top: 0px;
+    font-size: 30px;
+}
+
+img{
+    width: 25%;
+    height: auto;
+    float: 20px 20px;
+}
+
+.container {
+    margin: 20px;
+}
+
+.principal ul{
+    list-style-type: disc;
+    margin-left: 20px;
+}
+
+.principal li{
+    margin-bottom: 5px;
+}
+
+.principal p2{
+    position: relative;
+    font-size: 20px;
+    top: 50px;
     text-align: center;
 }
 
