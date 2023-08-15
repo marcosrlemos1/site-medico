@@ -1,0 +1,190 @@
+
+.cabecalho{
+    background: rgb(64, 206, 216);
+    border: 2px solid rgb(43, 161, 197);
+    border-radius: 5px;
+}
+
+.cabecalho div{
+    position: relative;
+    width: 1200px;
+    height: 200px;
+    margin: 0 auto; 
+}
+
+.cabecalho nav{
+    position: absolute;
+    top: 90px;
+    left: 810px;
+}
+
+.cabecalho nav a:hover{
+    color: white;
+}
+
+.cabecalho a{
+    text-transform: uppercase;
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+}
+
+.cabecalho h1 img{
+    position: absolute;
+    top: 20px;
+    width: 150px;
+    height: auto;
+    float: 20px 20px;
+    border-radius: 100px;
+    border: 2px solid rgb(43, 161, 197);
+}
+
+.cabecalho li{
+    display: inline;
+    margin: 0 0 0 18px;
+}
+
+main{
+    padding-top: 3%;
+    width: 1360px;
+    height: auto;
+    margin: 0 auto;
+}
+
+.titulo-dois{
+    font-size: 40px;
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+.titulo-tres{
+    text-align: center;
+    font-size: 40px;
+    padding-bottom: 20px;
+}
+
+.titulo-quatro{
+    position: relative;
+    text-align: center;
+    top: -150px;
+    font-size: 30px;
+    padding-bottom: 10px;
+}
+
+.titulo-cinco{
+    text-align: center;
+    font-size: 40px;
+    padding-bottom: 30px;
+}
+
+.titulo-seis{
+    text-align: center;
+    font-size: 40px;
+    padding-bottom: 50px;
+}
+
+.titulo-sete{
+    text-align: center;
+    font-size: 40px;
+    padding-bottom: 30px;
+}
+
+.introducao{
+    border: 3px solid rgb(43, 161, 197);
+    border-radius: 15px;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+
+.introducao p{
+    font-size: 25px;
+    text-align: justify;
+}
+
+.introducao{
+    padding-top: 10px;
+    text-align: center;
+}
+
+.sobre_mim{
+    border: 3px solid rgb(43, 161, 197);
+    border-radius: 15px;
+    margin-bottom: 10px;
+    padding: 40px;
+}
+
+.sobre_mim li{
+    list-style-type: disc;
+    font-size: 25px;
+}
+
+.sobre_mim img{
+    width: 25%;
+    height: auto;
+    border: 5px solid rgb(43, 161, 197);;
+    border-radius: 200px;
+}
+
+.especialidades{
+    border: 3px solid rgb(43, 161, 197);
+    border-radius: 15px;
+    padding-top: 1%;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.itens{
+    position: relative;
+    font-style: italic;
+    list-style-type: disc;
+    font-size: 25px;
+    top: -150px;
+    left: 650px;
+}
+
+.especialidades img{
+    position: relative;
+    margin-left: 80px;
+    width: 30%;
+    height: auto;
+}
+
+.endereco{
+    border: 3px solid rgb(43, 161, 197);
+    border-radius: 15px;
+    padding: 30px;
+    margin-bottom: 10px;
+}
+
+.endereco p{
+    position: relative;
+    top: 200px;
+    left: 700px;
+    font-size: 25px;
+    
+}
+
+.participacoes{
+    border: 3px solid rgb(43, 161, 197);
+    border-radius: 15px;
+    padding: 30px;
+    margin-bottom: 10px;
+}
+
+.participacoes p{
+    font-size: 25px;
+    padding: 10px;
+}
+
+.rodape{
+    height: 100px;
+    background: rgb(64, 206, 216);
+    border: 2px solid rgb(43, 161, 197);
+    border-radius: 5px;
+}
+
+.copyright{
+    position: relative;
+    text-align: center;
+    top: 50px;
+}
